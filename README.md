@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jovin-Gladson
-- 👀 I’m interested in ... OS, Apps And Websites
-- 🌱 I’m currently learning ... HTML and CSS and C#
-- 💞️ I’m looking to collaborate on ... A Desktop App Project
+- 👀 I’m interested in ... Building Apps and Websites for All Platforms
+- 🌱 I’m currently learning ... Python, Android Development
+- 💞️ I’m looking to collaborate on ... -
 - 📫 How to reach me ... djovingladson@outlook.com / djovingladson@gmail.com
 
 <!---
